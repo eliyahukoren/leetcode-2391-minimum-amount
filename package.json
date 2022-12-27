@@ -1,0 +1,16 @@
+{
+	"name": "2391_MinimumAmountOfTimeToCollectGarbage",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "Eliyahu Koren <elik.koren@gmail.com>",
+	"license": "MIT",
+	"categories": [
+		"LeetCode",
+		"Javascript",
+		"algorithm",
+		"Mocha"
+	],
+	"scripts": {
+		"test": "mocha"
+	}
+}
