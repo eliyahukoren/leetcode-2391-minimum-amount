@@ -5,7 +5,7 @@
 [LettCode original]((https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/))
 
 
-![](https://img.shields.io/github/actions/workflow/status/eliyahukoren/leetcode-2391-minimum-amount/actions.yml?label=2279%20LeetCode&logo=logo)
+![](https://img.shields.io/github/actions/workflow/status/eliyahukoren/leetcode-2391-minimum-amount/actions.yml?label=2391%20LeetCode&logo=logo)
 
 
 **Medium**
