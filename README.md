@@ -2,7 +2,9 @@
 
 ![codewars](https://www.codewars.com/users/eliyahukoren/badges/large)
 
-[LettCode original](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/)
+<a href="https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/">
+<img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="drawing" width="100px"/>
+</a>
 
 
 ![](https://img.shields.io/github/actions/workflow/status/eliyahukoren/leetcode-2391-minimum-amount/actions.yml?label=2391%20LeetCode&logo=logo)
