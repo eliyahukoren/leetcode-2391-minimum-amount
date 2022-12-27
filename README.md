@@ -2,11 +2,13 @@
 
 ![codewars](https://www.codewars.com/users/eliyahukoren/badges/large)
 
-<div style="padding: 10px; background-color: rgba(255, 255, 255, 0.8) !important; border: 1px solid crimson; margin-bottom: 25px; border-radius: 10px;">
+<div style="padding: 10px; background-color: rgba(255, 255, 255, 0.8) !important; margin-bottom: 25px; border-radius: 10px;">
 <a href="https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/">
-<img src="https://leetcode.com/_next/static/images/logo-large-dark-94099a3702daad8363bf79c3faef5a3f.png" alt="drawing" width="100px"/>
+<img src="https://leetcode.com/_next/static/images/logo-large-dark-94099a3702daad8363bf79c3faef5a3f.png" alt="LeetCode" width="100px"/>
 </a>
 </div>
+
+##
 
 ![](https://img.shields.io/github/actions/workflow/status/eliyahukoren/leetcode-2391-minimum-amount/actions.yml?label=2391%20LeetCode&logo=logo)
 
