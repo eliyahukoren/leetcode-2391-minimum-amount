@@ -2,7 +2,7 @@
 
 ![codewars](https://www.codewars.com/users/eliyahukoren/badges/large)
 
-<div style="padding: 10px; background-color: #fff !important; border: 1px solid crimson; margin-bottom: 5px; border-radius: 10px;">
+<div style="padding: 10px; background-color: rgba(255, 255, 255, 0.8) !important; border: 1px solid crimson; margin-bottom: 5px; border-radius: 10px;">
 <a href="https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/">
 <img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="drawing" width="100px"/>
 </a>
